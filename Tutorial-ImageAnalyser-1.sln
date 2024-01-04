@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial-ImageAnalyser-1", "Tutorial-ImageAnalyser-1.csproj", "{5A42E2EF-A341-4B9A-AAFD-232661C181AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A42E2EF-A341-4B9A-AAFD-232661C181AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A42E2EF-A341-4B9A-AAFD-232661C181AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A42E2EF-A341-4B9A-AAFD-232661C181AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A42E2EF-A341-4B9A-AAFD-232661C181AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5600950B-D509-4AC4-A10F-EAF66E8EAA2C}
+	EndGlobalSection
+EndGlobal
