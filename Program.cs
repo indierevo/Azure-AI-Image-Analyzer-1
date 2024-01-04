@@ -12,7 +12,7 @@ namespace Tutorial_ImageAnalyser_1
         // Folder path containing the source images
         static string folderPath = "C:\\temp\\images\\analysis";
         // Folder path where we want the analysed images saved
-        static string destinationDirectory = $"C:\\temp\\images\\analysis\\OUTPUTS";
+        static string destinationDirectory = "C:\\temp\\images\\analysis\\OUTPUTS";
 
         static async Task Main(string[] args)
         {
